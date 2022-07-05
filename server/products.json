@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Timber Gray Sofa 2.0",
+    "description": "Stay a while. The Timber charme chocolat sofa is set atop an oak trim and flaunts fluffy leather back and seat cushions. Over time, this brown leather sofa’s full-aniline upholstery will develop a worn-in vintage look. Snuggle up with your cutie (animal or human) and dive into a bowl of popcorn. This sofa is really hard to leave. Natural color variations, wrinkles and creases are part of the unique characteristics of this leather. It will develop a relaxed vintage look with regular use.",
+    "price": 1000,
+    "currency": "USD",
+    "amountInStock": 15
+  },
+  {
+    "id": 2,
+    "name": "Carmel Brown Sofa",
+    "description": "Stay a while. The Timber charme chocolat sofa is set atop an oak trim and flaunts fluffy leather back and seat cushions. Over time, this brown leather sofa’s full-aniline upholstery will develop a worn-in vintage look. Snuggle up with your cutie (animal or human) and dive into a bowl of popcorn. This sofa is really hard to leave. Natural color variations, wrinkles and creases are part of the unique characteristics of this leather. It will develop a relaxed vintage look with regular use.",
+    "price": 1000,
+    "currency": "USD",
+    "amountInStock": 5
+  }
+]

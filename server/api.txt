@@ -1,0 +1,7 @@
+Ecommerce API endpoints
+=======================
+GET /products => get all products
+GET /products/:id => get a single product with the specified id (uses request parameters)
+POST /products => create a new product (uses request body)
+PUT /products/:id => update a single product (uses request parameters and request body)
+DELETE /products/:id => delete a single product (uses request parameters)
